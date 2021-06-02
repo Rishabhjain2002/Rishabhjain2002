@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishabhjain2002" alt="rishabhjain2002" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 👋 Hi, I’m @Rishabhjain2002
-- 👀 I’m interested in doing coding.
-- 🌱 I’m currently learning data structures and algorithms .
-- 💞 I’m looking to collaborate on making influencing youtube video(need a partner for it)
-- 📫 You can reach me -rishabhjain2808@gmail.com 
+- 👋 Hi, I’m @Rishabhjain2002<br>
+- 👀 I’m interested in doing coding.<br>
+- 🌱 I’m currently learning data structures and algorithms .<br>
+- 💞 I’m looking to collaborate on making influencing youtube video(need a partner for it)<br>
+- 📫 You can reach me -rishabhjain2808@gmail.com <br>
 
 <!---
 Rishabhjain2002/Rishabhjain2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -34,4 +34,4 @@ You can click the Preview link to take a look at your changes.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhjain2002&show_icons=true&locale=en&layout=compact" alt="rishabhjain2002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhjain2002&show_icons=true&locale=en" alt="rishabhjain2002" /></p>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rishabhjain2002&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+(https://github-readme-activity-graph.cyclic.app/graph?username=Rishabhjain2002&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
